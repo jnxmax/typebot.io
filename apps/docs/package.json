@@ -5,7 +5,8 @@
     "dev": "mintlify dev --port 3004",
     "build": "bun check-broken-links",
     "check-broken-links": "mintlify broken-links",
-  "api:generate": "echo 'API generation skipped'",
+    "api:generate": "echo 'API generation skipped'"
+  },
   "devDependencies": {
     "mintlify": "4.0.228",
     "tsx": "4.19.1",
